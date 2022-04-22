@@ -1,11 +1,14 @@
 # instagram-linktree
-Arvore de links para instagram.
+Árvore de links para instagram.
 
 A aplicação consiste em armazenar o link de algumas das minhas principais redes de contato.
 
 ### 💻 Tecnologias:
  - Html
  - scss
+
+### 🚀 Próximo passo
+ - Consumir API para mudar imagem e bio do perfil de forma automática.
  
 ### ✨ Preview 
 
