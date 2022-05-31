@@ -6,9 +6,6 @@ A aplicação consiste em armazenar o link de algumas das minhas principais rede
 ### 💻 Tecnologias:
  - Html
  - scss
-
-### 🚀 Próximo passo
- - Consumir API para mudar imagem e bio do perfil de forma automática.
  
 ### ✨ Preview 
 
